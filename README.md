@@ -19,4 +19,12 @@ The VOG is a sophisticated chatbot designed to provide accurate and comprehensiv
   For more details, visit the project repository and start exploring the potential of The VOG chatbot today!  
   
   Also a detailed description of the chatbot is provided
-</h4>
+</h4>  
+
+<h3 align="center">
+<b>Below Given A Demo Video Of "The VOG (Virtual OmniMedicine Generative) Chatbot"<b/>
+</h3>
+<div align="center">
+  
+  https://github.com/ArfanAH/RAG-Chatbot-Using-Custom-Dataset/assets/156053170/4b9480f4-05d2-4a17-b6ef-191aef70cf9b
+</div>
