@@ -1,5 +1,5 @@
 <h1 align="center">
-<b>The VOG (Virtual OmniMedicine Generative) Chatbot<b/>
+<b>Virtual OmniMedicine Generative Chatbot<b/>
 </h1>
 The VOG is a sophisticated chatbot designed to provide accurate and comprehensive answers related to the "Assorted Medicine Dataset of Bangladesh". Built using LLaMA 3 and ChromaDB, this chatbot leverages state-of-the-art AI to assist users with their medical queries effortlessly.  
 
