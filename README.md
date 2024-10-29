@@ -22,7 +22,7 @@ The VOG is a sophisticated chatbot designed to provide accurate and comprehensiv
 </h4>  
 
 <h3 align="center">
-<b>Below Given A Demo Video Of "The VOG (Virtual OmniMedicine Generative) Chatbot"<b/>
+<b>Below Given A Demo Video Of "Virtual OmniMedicine Generative Chatbot"<b/>
 </h3>
 <div align="center">
   
